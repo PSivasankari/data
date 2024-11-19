@@ -1,4 +1,4 @@
-version 1
+Version 2
 
 def multiplication(m,n):
     return m*n
